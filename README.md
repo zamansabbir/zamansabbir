@@ -28,7 +28,7 @@
 ---
 
 ## 📝 Professional Experience
-### **Sr. Embedded Software Enginee**  
+### **Sr. Embedded Software Engineer**  
 KLA Corporation, Milpitas, CA  
 May 2023 - Present
 - Lead the architecture and end-to-end design of CDDSW, a real-time embedded software stack controlling high-performance column driver and datapath electronics in electron-beam systems.s.

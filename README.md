@@ -1,6 +1,6 @@
 
 
-# Md Sabbir Bin Zaman - Embedded Software Engineer
+# Sabbir Zaman - Embedded Software Engineer
 
 ![Profile Image](https://avatars.githubusercontent.com/u/49623219?v=4)
 
@@ -31,7 +31,7 @@
 ### **Sr. Embedded Software Engineer**  
 KLA Corporation, Milpitas, CA  
 May 2023 - Present
-- Lead the architecture and end-to-end design of CDDSW, a real-time embedded software stack controlling high-performance column driver and datapath electronics in electron-beam systems.s.
+- Actively involved in designing architecture and end-to-end design of CDDSW, a real-time embedded software stack controlling high-performance column driver and datapath electronics in electron-beam systems.s.
 - Architected and developed multi-threaded C++ applications on real-time Linux, focusing on deterministic behavior, low-latency performance, and system scalability.
 - Designed a modular and extensible software framework, enabling seamless integration of new FPGA components and hardware configurations.
 - Drove system-wide architectural decisions, balancing trade-offs between memory usage, timing guarantees, and maintainability in resource-constrained environments
